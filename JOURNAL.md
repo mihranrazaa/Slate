@@ -58,3 +58,11 @@ That is a latter thing to worry about
 <img width="1360" height="518" alt="image" src="https://github.com/user-attachments/assets/857906e2-58d0-4f96-91a8-6b9d0316c3e3" />
 
 **Total time spent: 34minutes**
+
+# April 22 : Started Schematics for my pcb
+
+Uh started the schematics for my pcb, the idea is because the projects have components all over the place i want the pcb to have sockets to which i can easily connect my components with small wires the pcb will have pi zero 2w solder to and rest will be connected via sockets + i'm also thinking of making it non portable why? thou i started this with idea of adding battery in it, i will keep this on 24/7 it will act as an alarm/ timer etc, etc which is hard for battery to keep oh demn i just realised i forgot aboout speaker i'll think about that in second iteration i want this to be made first right now, the goal is to have a working eink display oled, all controls work. i'll add a buzzer for now ... anyways that's it 
+
+<img width="747" height="697" alt="image" src="https://github.com/user-attachments/assets/5e1e149c-00a0-4fcc-82fc-43f717ae3606" />
+
+**Total time spent: 25minutes**
