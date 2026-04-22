@@ -9,4 +9,4 @@ created_at: "2026-04-21"
 
 This is just a test journal but i have just started my component research.
 
-**Total time spent: 10 minutes**
+**Total time spent: 10minutes**
