@@ -78,6 +78,7 @@ i also added buzzer which i forgot again anyways that's all BYEEEE
 
 **Total time spent: 30minutes**
 
+
 # April 24: Redrawing case and started cad
 
 New drawing as i thought it could have been better, next i made the front part though still very rough but it is PROGRESS, i just need to make the base case properly rest is easy....
@@ -85,3 +86,13 @@ New drawing as i thought it could have been better, next i made the front part t
 <img width="1691" height="518" alt="image (4)" src="https://github.com/user-attachments/assets/2b38b42a-ef88-42de-a476-08b3af5cca80" />
 
 **Total time spent: 40minutes**
+
+# April 25: Did some cad
+
+Did some work on the base case, but i think i have to do some changes as i can't think of a good way for how i will set the components in their places, i will do some changes on the front plate, i will the two plates like that the front removing from the base as that is better, + i will use neody. magnets to keep the plate in place  + i will soon get the 3d printer from construct once i get all my currency, then i will 3d print my own :yay anyways that's all..
+Main Challange: Thinking of internal structre of CAD..
+
+<img width="1122" height="717" alt="image" src="https://github.com/user-attachments/assets/31bdbf71-6b1d-4b2c-9981-1191e725df97" />
+<img width="1321" height="711" alt="image" src="https://github.com/user-attachments/assets/a43eec8f-cb01-4d12-b629-72e5ad4ed0c2" />
+
+**Total time spent: 30minutes**
