@@ -61,8 +61,27 @@ That is a latter thing to worry about
 
 # April 22 : Started Schematics for my pcb
 
-Uh started the schematics for my pcb, the idea is because the projects have components all over the place i want the pcb to have sockets to which i can easily connect my components with small wires the pcb will have pi zero 2w solder to and rest will be connected via sockets + i'm also thinking of making it non portable why? thou i started this with idea of adding battery in it, i will keep this on 24/7 it will act as an alarm/ timer etc, etc which is hard for battery to keep oh demn i just realised i forgot aboout speaker i'll think about that in second iteration i want this to be made first right now, the goal is to have a working eink display oled, all controls work. i'll add a buzzer for now ... anyways that's it 
+Uh started the schematics for my pcb, the idea is because the projects have components all over the place i want the pcb to have sockets to which i can easily connect my components with small 
+wires the pcb will have pi zero 2w solder to and rest will be connected via sockets + i'm also thinking of making it non portable why? thou i started this with idea of adding battery in it, i will keep this on 24/7 it will act as an alarm/ timer etc, etc which is hard for battery to keep oh demn i just realised i forgot aboout speaker i'll think about that in second iteration i want this to be made first right now, the goal is to have a working eink display oled, all controls work. i'll add a buzzer for now ... anyways that's it 
 
 <img width="747" height="697" alt="image" src="https://github.com/user-attachments/assets/5e1e149c-00a0-4fcc-82fc-43f717ae3606" />
 
 **Total time spent: 25minutes**
+
+# April 23: Completed the pcb!!
+
+Completed the whole schematics, then started with the pcb in starting i was confused how i want the pcb too, but the thing is the pcb is just for the wires to be connected in a organized manner, though also becuase the e ink hat supports jumper wires, so i just made a small plate, and now the main case for the cad remains which i have already shown you a design, this design will be directly powered as this is made to stay on desk and run 24/7 so direct power is a better thing for this.
+
+i also added buzzer which i forgot again anyways that's all BYEEEE
+
+<img width="919" height="601" alt="image (3)" src="https://github.com/user-attachments/assets/659c1522-1ab4-4227-b152-8334427329d9" />
+
+**Total time spent: 30minutes**
+
+# April 24: Redrawing case and started cad
+
+New drawing as i thought it could have been better, next i made the front part though still very rough but it is PROGRESS, i just need to make the base case properly rest is easy....
+
+<img width="1691" height="518" alt="image (4)" src="https://github.com/user-attachments/assets/2b38b42a-ef88-42de-a476-08b3af5cca80" />
+
+**Total time spent: 40minutes**
