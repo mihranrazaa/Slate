@@ -96,3 +96,9 @@ Main Challange: Thinking of internal structre of CAD..
 <img width="1321" height="711" alt="image" src="https://github.com/user-attachments/assets/a43eec8f-cb01-4d12-b629-72e5ad4ed0c2" />
 
 **Total time spent: 30minutes**
+
+# April 26: thinking:
+Am i making ts a bit too fast? :sob
+
+**Total time spent: 5minutes**
+
